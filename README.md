@@ -128,4 +128,4 @@ Permission to use, copy, modify, and distribute this software and its documentat
 This file is provided AS IS with no warranties of any kind. The author shall have no liability with respect to the infringement of copyrights, trade secrets or any patents by this file or any part thereof. In no event will the author be liable for any lost revenue or profits or other special, indirect and consequential damages.
 
 Adapted from swarm.c Copyright (c) 1991 by Patrick J. Naughton
-Adapted from xswarm by Jeff Butterworth <butterwo@ncsc.org>
+Adapted from xswarm by Jeff Butterworth 
