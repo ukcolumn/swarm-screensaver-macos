@@ -9,6 +9,8 @@ a knot of light trails that keeps reshaping itself.
 
 Written in Swift against Apple's ScreenSaver framework. 
 
+https://github.com/user-attachments/assets/b78e2aed-7dda-4334-89b1-61a1b3707f06
+
 ## Requirements
 
 - macOS 11 or later
